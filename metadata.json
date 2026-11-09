@@ -1,0 +1,8 @@
+{
+  "name": "Remix PT Intan Samudera Agency - Shipping \u0026 Maritime Logistics Balikpapan",
+  "description": "Layanan resmi keagenan kapal (shipping agency), logistik maritim, bongkar muat kargo, bunker supply, dan crew handling di Balikpapan \u0026 koridor maritim IKN Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
